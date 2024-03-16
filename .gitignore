@@ -1,0 +1,10 @@
+bspwn/*
+polybar/*
+sxhkd/
+picom/
+build/
+blue-sky/
+start.sh
+sync.sh
+__pycache__
+src/__pycache__
